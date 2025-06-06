@@ -94,6 +94,13 @@ Course progress tracking for users
 
 Quiz and assignment modules
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/659484d4-883a-48b1-ba97-bd1935616dc3)
+![Image](https://github.com/user-attachments/assets/cea14f9c-616f-4088-b8fd-0f2ee0d71a49)
+![Image](https://github.com/user-attachments/assets/e2439d48-f465-42c5-a843-307b9690c883)
+![Image](https://github.com/user-attachments/assets/d93630ff-7a06-48d8-8bae-14ad8c814cdb)
+![Image](https://github.com/user-attachments/assets/678897b4-7320-4ada-9417-870dd1d85db4)
+
 Admin panel for course uploads and management
 
 🙌 Conclusion
